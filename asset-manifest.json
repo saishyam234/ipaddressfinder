@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ipaddressfinder/static/css/main.fd4d1b72.css",
+    "main.js": "/ipaddressfinder/static/js/main.503fb809.js",
+    "static/js/453.1e9a54df.chunk.js": "/ipaddressfinder/static/js/453.1e9a54df.chunk.js",
+    "index.html": "/ipaddressfinder/index.html",
+    "main.fd4d1b72.css.map": "/ipaddressfinder/static/css/main.fd4d1b72.css.map",
+    "main.503fb809.js.map": "/ipaddressfinder/static/js/main.503fb809.js.map",
+    "453.1e9a54df.chunk.js.map": "/ipaddressfinder/static/js/453.1e9a54df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd4d1b72.css",
+    "static/js/main.503fb809.js"
+  ]
+}
